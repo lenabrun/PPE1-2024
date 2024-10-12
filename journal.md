@@ -4,3 +4,5 @@ J'ai créé un dépôt personnel GitHub pour le cours Programmation et Projet En
 **Problème :** Rien à signaler.
 
 ## 03 Exercice : corriger des erreurs git
+Je crois que ces lignes vont être éradiquées mais voilà.
+J'espère qu'il ne faut pas plus de lignes.
