@@ -1,1 +1,15 @@
+1.a
+echo Annotations en 2016 : (cat ann/2016*.ann | wc -l) > comptes.txt
+echo Annotations en 2017 : (cat ann/2017*.ann | wc -l) >> comptes.txt
+echo Annotations en 2018 : (cat ann/2018*.ann | wc -l) >> comptes.txt
 
+1.b
+echo Annotations de lieux : (cat ann/*.ann | grep Location | wc -l) > locations.txt
+
+2.a
+cat ann/2016*.ann | grep Location | cut -f 3 | sort -n | uniq -c | sort -n | tail -n 15 > classement_2016.txt
+cat ann/2017*.ann | grep Location | cut -f 3 | sort -n | uniq -c | sort -n | tail -n 15 > classement_2017.txt
+cat ann/2018*.ann | grep Location | cut -f 3 | sort -n | uniq -c | sort -n | tail -n 15 > classement_2018.txt
+
+2.b
+cat ann/201*_01_*.ann | grep Location | cut -f 3 | sort -n | uniq -c | sort -n | tail -n 15 > classement_janvier.txt

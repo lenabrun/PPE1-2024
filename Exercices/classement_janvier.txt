@@ -1,0 +1,15 @@
+      9 Alaska
+      9 Donbass
+      9 Minsk
+      9 Royaume-Uni
+      9 Syrie
+     11 Iran
+     11 Terre
+     12 Chine
+     13 Turquie
+     14 Ukraine
+     18 Italie
+     18 Russie
+     26 Paris
+     34 États-Unis
+     85 France
