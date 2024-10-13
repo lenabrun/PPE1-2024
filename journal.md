@@ -6,3 +6,4 @@ J'ai créé un dépôt personnel GitHub pour le cours Programmation et Projet En
 ## 03 Exercice : corriger des erreurs git, correction d'erreurs
 Cette ligne doit rester après correction.
 Je suis à l'exercice 3 de l'exercice sur comment corriger ses erreurs git. De ce que j'ai compris ce fichier oups.md va disparaître avant la fin de l'exercice et ces modifications apportées seront intégrées au fichier journal.md.
+Je vais mettre de côté cette ligne pour l'exercice 4.a
