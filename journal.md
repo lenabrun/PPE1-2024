@@ -4,7 +4,6 @@ J'ai créé un dépôt personnel GitHub pour le cours Programmation et Projet En
 **Problème :** Rien à signaler.
 
 ## 03 Exercice : corriger des erreurs git
-Je crois que ces lignes vont être éradiquées mais voilà.
-J'espère qu'il ne faut pas plus de lignes.
 
 Cette ligne doit rester après correction.
+Je suis à l'exercice 3 de l'exercice sur comment corriger ses erreurs git. De ce que j'ai compris ce fichier oups.md va disparaître avant la fin de l'exercice et ces modifications apportées seront intégrées au fichier journal.md.
